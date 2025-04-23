@@ -147,6 +147,4 @@ chattr/
 
 
 
-START THE APP
 
-npm start
