@@ -144,27 +144,7 @@ chattr/
 - Socket.io for real-time communication
 - React and Vite for frontend development
 - MongoDB for database
-- # All contributors and maintainers
-  SET UP .ENV FILE
 
-MONGODB_URI=...
 
-PORT=5001
 
-JWT_SECRET=...
 
-CLOUDINARY_CLOUD_NAME=...
-
-CLOUDINARY_API_KEY=...
-
-CLOUDINARY_API_SECRET=...
-
-NODE_ENV=development
-
-BUILD THE APP
-
-npm run build
-
-START THE APP
-
-npm start
